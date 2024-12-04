@@ -6,7 +6,7 @@
 
 </div>
 
-> ##### <br>I'm a curious coder, creative thinker, and passionate Full Stack Developer. My journey into tech is fueled by my love for solving real-world problems through clean, functional, and visually stunning code.<br><br>
+> #### <br>I'm a curious coder, creative thinker, and passionate Full Stack Developer. My journey into tech is fueled by my love for solving real-world problems through clean, functional, and visually stunning code.<br><br>
 
 ## 🌟What Drives Me
 I believe technology is an art, and every project is a masterpiece in the making. Whether it's crafting seamless user experiences or engineering robust backends, I strive to combine innovation with functionality to make every line of code count.<br>
