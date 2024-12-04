@@ -1,99 +1,14 @@
 # 🚀 About Me:
-<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes typing {
-      from { stroke-dashoffset: 500; }
-      to { stroke-dashoffset: 0; }
-    }
-    @keyframes fade {
-      0% { opacity: 0; }
-      20% { opacity: 1; }
-      80% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-    @keyframes fadeIn {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    @keyframes colorChange {
-      0% { fill: #FF0000; }  /* Red */
-      20% { fill: #FF00FF; } /* Purple */
-      40% { fill: #0000FF; } /* Blue */
-      60% { fill: #00FFFF; } /* Cyan */
-      80% { fill: #00FF00; } /* Green */
-      100% { fill: #FF0000; } /* Back to Red */
-    }
-    .typing-text {
-      fill: none;
-      stroke: #000;
-      stroke-width: 1px;
-      stroke-dasharray: 500;
-      stroke-dashoffset: 500;
-      animation: typing 2s ease forwards, fade 4s ease forwards;
-    }
-    .welcome-text {
-      opacity: 0;
-      animation: 
-        fadeIn 2s ease forwards,
-        colorChange 8s linear infinite;
-      animation-delay: 4s, 6s;
-    }
-  </style>
-  <defs>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1">
-        <animate attributeName="stop-color" 
-          values="#FF0000;#FF00FF;#0000FF;#00FFFF;#00FF00;#FF0000"
-          dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1">
-        <animate attributeName="stop-color" 
-          values="#FF00FF;#0000FF;#00FFFF;#00FF00;#FF0000;#FF00FF"
-          dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="#ffffff"/>
-  <text class="typing-text" x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" 
-        font-family="Arial, Helvetica, sans-serif" font-size="30">
-    Hello! I'm Rohan V
-  </text>
-  <text class="welcome-text" x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" 
-        font-family="Arial, Helvetica, sans-serif" font-size="30" fill="url(#textGradient)">
-    Welcome to My Profile
-  </text>
-</svg>
 
-<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes typeIntro {
-      from { stroke-dashoffset: 1000; }
-      to { stroke-dashoffset: 0; }
-    }
-    @keyframes fadeToBlack {
-      0%, 90% { stroke: #000; fill: transparent; }
-      100% { stroke: transparent; fill: #000; }
-    }
-    .intro-text {
-      fill: transparent;
-      stroke: #000;
-      stroke-width: 1px;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      animation: 
-        typeIntro 5s ease forwards,
-        fadeToBlack 1s ease forwards 5s;
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 16px;
-    }
-  </style>
-  <text class="intro-text" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
-    Hello! I'm Rohan V 👋 – a curious coder, creative thinker, and passionate Full Stack Developer.
-  </text>
-  <text class="intro-text" x="50%" y="70%" text-anchor="middle" dominant-baseline="middle">
-    My journey into tech is fueled by my love for solving real-world problems through clean, functional, and visually stunning code.
-  </text>
-</svg>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rohan+V;Welcome+to+My+Profile)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=A+curious+coder%2C+creative+thinker%2C+and+passionate+Full+Stack+Developer;My+journey+into+tech+is+fueled+by+my+love+for+solving+real-world+problems" alt="Typing SVG" />
+</div>
 
 ## 🌟What Drives Me
 I believe technology is an art, and every project is a masterpiece in the making. Whether it's crafting seamless user experiences or engineering robust backends, I strive to combine innovation with functionality to make every line of code count.<br>
