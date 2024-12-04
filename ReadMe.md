@@ -2,13 +2,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rohan+V;Welcome+to+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&multiline=true&random=false&width=600&height=100&lines=Hello!+I'm+Rohan+V;Welcome+to+My+Profile&color=FF0000%2CFF00FF%2C0000FF%2C00FFFF%2C00FF00%2CFFFFFF&center=true)](https://git.io/typing-svg)
 
 </div>
 
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=A+curious+coder%2C+creative+thinker%2C+and+passionate+Full+Stack+Developer;My+journey+into+tech+is+fueled+by+my+love+for+solving+real-world+problems" alt="Typing SVG" />
-</div>
+I'm a curious coder, creative thinker, and passionate Full Stack Developer. My journey into tech is fueled by my love for solving real-world problems through clean, functional, and visually stunning code.
 
 ## 🌟What Drives Me
 I believe technology is an art, and every project is a masterpiece in the making. Whether it's crafting seamless user experiences or engineering robust backends, I strive to combine innovation with functionality to make every line of code count.<br>
