@@ -58,15 +58,43 @@
         font-family="Arial, Helvetica, sans-serif" font-size="30">
     Hello! I'm Rohan V
   </text>
-  <text class="welcome-text" x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" 
+  <text class="welcome-text" x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" 
         font-family="Arial, Helvetica, sans-serif" font-size="30" fill="url(#textGradient)">
     Welcome to My Profile
   </text>
 </svg>
 
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typeIntro {
+      from { stroke-dashoffset: 1000; }
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes fadeToBlack {
+      0%, 90% { stroke: #000; fill: transparent; }
+      100% { stroke: transparent; fill: #000; }
+    }
+    .intro-text {
+      fill: transparent;
+      stroke: #000;
+      stroke-width: 1px;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: 
+        typeIntro 5s ease forwards,
+        fadeToBlack 1s ease forwards 5s;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+    }
+  </style>
+  <text class="intro-text" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
+    Hello! I'm Rohan V 👋 – a curious coder, creative thinker, and passionate Full Stack Developer.
+  </text>
+  <text class="intro-text" x="50%" y="70%" text-anchor="middle" dominant-baseline="middle">
+    My journey into tech is fueled by my love for solving real-world problems through clean, functional, and visually stunning code.
+  </text>
+</svg>
 
-
- Hello! I'm Rohan V 👋 – a curious coder, creative thinker, and passionate Full Stack Developer. My journey into tech is fueled by my love for solving real-world problems through clean, functional, and visually stunning code.<br>
 ## 🌟What Drives Me
 I believe technology is an art, and every project is a masterpiece in the making. Whether it's crafting seamless user experiences or engineering robust backends, I strive to combine innovation with functionality to make every line of code count.<br>
 ## 💻 Tech Snapshot Languages:  
