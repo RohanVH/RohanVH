@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=A+curious+coder%2C+creative+thinker%2C+and+passionate+Full+Stack+Developer;My+journey+into+tech+is+fueled+by+my+love+for+solving+real-world+problems" alt="Typing SVG" />
 </div>
 
